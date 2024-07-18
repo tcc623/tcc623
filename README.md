@@ -1,0 +1,1 @@
+- I am Thomas Cartwright. I am a beginner in my journey to become a Data Analyst.
